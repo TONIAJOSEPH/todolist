@@ -1,0 +1,103 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    /* background-color: gray; */
+} 
+form {
+     margin-right: 200px; 
+     margin-left: 300px;
+     margin-top: 30px;
+     margin-bottom: 30px;
+     padding: 50px;
+
+ width: 40%; 
+ background-color: black;
+}
+/* #emailHelp{
+    color: white;
+} */
+.form-label{
+    color: white;
+}
+.form-check-label{
+    color: wheat;
+}
+.todolist{
+    width: 50%;
+    margin-left: 300px;
+    /* margin-right: 300px; */
+    margin-top: 50px;
+    /* padding-right: 400px; */
+    /* padding-left: 200px;  */
+    /* background-color: black; */
+
+}
+.todolist h5{
+    color: white;
+}
+#todo{
+    background-color: black;
+    text-align: center;
+}
+
+#ireload{
+    color: white;
+    padding-left: 20px;
+    cursor: pointer;
+    /* transition: .1s linear; */
+    /* transform: scale(1.2);  */
+    /* transition: ease-in-out; */
+}
+#ireload:hover{
+    color: blue;
+}
+#list{
+    list-style-type: none; 
+    color: black;
+    margin-bottom: 50px;
+}
+
+#list li{
+    background: grey;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#date{
+    color: #eeeeee;
+   /* display: inline; */
+   padding-right: 350px;
+}
+ #list li i{
+    float: right;
+    /* color: ; */
+}
+#delete{
+    cursor: pointer;
+    
+}
+#delete:hover{
+    color: red;
+}
+#liitem:checked{
+    text-decoration:"line-through";
+}
+/* .checked{
+    text-decoration: line-through;
+} */
+/* #list li i:hover{
+    background-color: blue;
+}  */
+/* #list li input{
+
+} */
+/* .fas{
+    cursor: pointer;
+    transition: .1s linear;
+}
+.fas:hover{
+    cursor: pointer;
+    transform: scale(1.2); 
+} */
+/* li:nth-child(n){
+    background-color: blueviolet;
+} */

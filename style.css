@@ -54,7 +54,8 @@ form {
 #list{
     list-style-type: none; 
     color: black;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 50px; 
 }
 
 #list li{

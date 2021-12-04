@@ -111,6 +111,12 @@ form {
 #nav{
     background-color: grey;
 }
+#submit{
+    background-color: grey;
+}
+#submit:hover{
+    background-color: black;
+}
 
 
 /* .checked{

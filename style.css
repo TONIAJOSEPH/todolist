@@ -117,8 +117,8 @@ form {
     color: black;
 }
 #submit:hover{
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 

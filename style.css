@@ -113,9 +113,12 @@ form {
 }
 #submit{
     background-color: grey;
+    border: none;
+    color: black;
 }
 #submit:hover{
     background-color: black;
+    color: white;
 }
 
 

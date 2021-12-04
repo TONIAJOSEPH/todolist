@@ -81,6 +81,34 @@ form {
 #liitem:checked{
     text-decoration:"line-through";
 }
+#main{
+    background-image: url("7.jpg"); 
+}
+#log{
+    background-color: transparent;
+}
+#log:hover{
+    background-color: black;
+    color: white;
+}
+#tod{
+    background-color: transparent;
+}
+#tod:hover{
+    background-color: black; 
+    color: white;
+}
+#mainpage{
+    background-image: url("7.jpg");
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+#lo{
+    text-align: center;
+    color: #eeeeee;
+}
+
+
 /* .checked{
     text-decoration: line-through;
 } */

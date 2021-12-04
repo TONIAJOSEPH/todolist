@@ -108,6 +108,9 @@ form {
     text-align: center;
     color: #eeeeee;
 }
+#nav{
+    background-color: grey;
+}
 
 
 /* .checked{
